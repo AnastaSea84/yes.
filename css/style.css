@@ -1023,6 +1023,10 @@ textarea.input {
   padding: 28px 0;
 }
 
+.head-footer__logo {
+  z-index: 1;
+}
+
 .head-footer__slogan {
   font-weight: 700;
   font-size: 18px;
